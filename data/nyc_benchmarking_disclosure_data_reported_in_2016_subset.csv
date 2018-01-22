@@ -1,4 +1,4 @@
-Borough,Primary Property Type - Self Selected,Largest Property Use Type - Gross Floor Area (sqft),Year Built,Fuel Oil #1 Use (kBtu),Fuel Oil #2 Use (kBtu),Fuel Oil #4 Use (kBtu),Fuel Oil #5 & 6 Use (kBtu),Diesel #2 Use (kBtu),District Steam Use (kBtu),Natural Gas Use (kBtu),Electricity Use - Grid Purchase (kBtu)
+borough,property_type,gross_floor_area_sqft,year_built,fuel_oil_1_usage_kBtu,fuel_oil_2_usage_kBtu,fuel_oil_4_usage_kBtu,fuel_oil_5_6_usage_kBtu,diesel_2_usage_kBtu,district_steam_usage_kBtu,natural_gas_usage_kBtu,electricity_usage_grid_purchase_kBtu
 Manhattan,Multifamily Housing,98000.0,1982.0,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available,5463399.1,1762214.1
 Manhattan,Office,2325044.0,1970.0,Not Available,Not Available,Not Available,Not Available,Not Available,108665968.8,38618831.6,177603017.4
 Manhattan,Office,1338000.0,1970.0,Not Available,Not Available,Not Available,Not Available,Not Available,42302319.9,,65135076.6
